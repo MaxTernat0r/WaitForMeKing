@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - JumpPlatform
+  - Gear
+  - BreakPlatform
+  - Spike
+  - CheckPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - Bonuses|Spike
+  - CheckPoints
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 3965336055
+    locked: 0
+  - name: CheckPoints
+    uniqueID: 2716820837
+    locked: 0
+  - name: Bonuses | Spikes
+    uniqueID: 3643992739
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
